@@ -9,9 +9,7 @@ class SecondRoute extends StatelessWidget {
       appBar: AppBar(
         title: const Text('Second Route'),
         centerTitle: true,
-        backgroundColor: const Color(
-          0xFFFFB6C1,
-        ), // Matching the AppBar color from the main screen
+        backgroundColor: const Color(0xFFFFB6C1),
       ),
       body: Center(
         child: Column(
