@@ -33,6 +33,7 @@ class SecondRoute extends StatelessWidget {
               // Add more text boxes or widgets as needed
             ],
           ),
+
         ),
       ),
     );
